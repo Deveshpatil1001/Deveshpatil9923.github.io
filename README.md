@@ -10,4 +10,4 @@
  - Links
 
 # Education
-- Some University
+- Sandip University
